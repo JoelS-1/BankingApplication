@@ -23,7 +23,6 @@ Just a couple notes about what I do and don't like with this solution I've put t
 * Type casting with the use of abstract class inheritence is currently a little cumbersome at times.
 * Not having a service layer makes the arrange on unit testing a little more involved. More of the logic/conditionals could be handled on a service layer as well.
 * Tying methods into the account objects may cause problems down the road, especially the use of logic on the account object layer
-* Withdrawl is currently misspelled 
 
 
 ## License
