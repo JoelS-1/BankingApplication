@@ -1,0 +1,16 @@
+D:\AssessmentProjects\BankingApplication\AccountTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\AssessmentProjects\BankingApplication\AccountTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\AssessmentProjects\BankingApplication\AccountTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\AssessmentProjects\BankingApplication\AccountTests\bin\Debug\AccountTests.dll
+D:\AssessmentProjects\BankingApplication\AccountTests\bin\Debug\AccountTests.pdb
+D:\AssessmentProjects\BankingApplication\AccountTests\bin\Debug\BankingData.dll
+D:\AssessmentProjects\BankingApplication\AccountTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\AssessmentProjects\BankingApplication\AccountTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\AssessmentProjects\BankingApplication\AccountTests\bin\Debug\BankingData.pdb
+D:\AssessmentProjects\BankingApplication\AccountTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\AssessmentProjects\BankingApplication\AccountTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\AssessmentProjects\BankingApplication\AccountTests\obj\Debug\AccountTests.csprojAssemblyReference.cache
+D:\AssessmentProjects\BankingApplication\AccountTests\obj\Debug\AccountTests.csproj.CoreCompileInputs.cache
+D:\AssessmentProjects\BankingApplication\AccountTests\obj\Debug\AccountTests.csproj.CopyComplete
+D:\AssessmentProjects\BankingApplication\AccountTests\obj\Debug\AccountTests.dll
+D:\AssessmentProjects\BankingApplication\AccountTests\obj\Debug\AccountTests.pdb
