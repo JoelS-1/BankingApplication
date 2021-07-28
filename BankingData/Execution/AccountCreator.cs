@@ -20,6 +20,6 @@ namespace BankingClassLibrary
             };
         }
 
-        public IAccount ExecuteCreate(Actions action, int accountId, string accountOwner, decimal accountBalance) => _factories[action].Create(accountId, accountOwner, accountBalance);
+        public Account ExecuteCreate(Actions action, int accountId, string accountOwner, decimal accountBalance) => _factories[action].Create(accountId, accountOwner, accountBalance);
     }
 }

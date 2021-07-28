@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AccountObjects\IAccount.cs" />
     <Compile Include="Execution\AccountCreator.cs" />
     <Compile Include="AccountObjects\CheckingAccount.cs" />
     <Compile Include="AccountObjects\CorporateInvestmentAccount.cs" />

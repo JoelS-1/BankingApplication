@@ -3,3 +3,4 @@ D:\AssessmentProjects\BankingApplication\BankingData\bin\Debug\BankingData.pdb
 D:\AssessmentProjects\BankingApplication\BankingData\obj\Debug\BankingClassLibrary.csproj.CoreCompileInputs.cache
 D:\AssessmentProjects\BankingApplication\BankingData\obj\Debug\BankingData.dll
 D:\AssessmentProjects\BankingApplication\BankingData\obj\Debug\BankingData.pdb
+D:\AssessmentProjects\BankingApplication\BankingData\obj\Debug\BankingClassLibrary.csprojAssemblyReference.cache

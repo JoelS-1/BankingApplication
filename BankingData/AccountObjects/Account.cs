@@ -8,7 +8,7 @@ namespace BankingClassLibrary
 {
     //abstract class with virtual methods to easily override account methods if more buisness logic is needed in the future
     //methods built robustly with true false statements for easier unit testing without needing to access protected properties
-    public abstract class Account : IAccount
+    public abstract class Account
     {
         protected int AccountId;
         protected string AccountOwner;
