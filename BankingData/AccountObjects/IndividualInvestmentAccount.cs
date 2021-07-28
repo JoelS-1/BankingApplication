@@ -16,7 +16,7 @@ namespace BankingClassLibrary
             AccountBalance = accountBalance;
         }
 
-        public override bool Withdraw(decimal withdrawAmount)
+        public override bool Withdrawal(decimal withdrawAmount)
         {
             if (withdrawAmount <= 0) return false;
                 else if (AccountBalance < withdrawAmount) return false;

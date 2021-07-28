@@ -25,7 +25,7 @@ namespace BankingClassLibrary
 
             return false;
         }
-        public virtual bool Withdraw(decimal withdrawAmount)
+        public virtual bool Withdrawal(decimal withdrawAmount)
         {
             if (withdrawAmount <= 0) return false;
                 else if (AccountBalance < withdrawAmount) return false;

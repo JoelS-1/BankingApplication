@@ -38,11 +38,11 @@ namespace AccountTests
         }
 
         [TestMethod]
-        public void CheckingWithdrawTest()
+        public void CheckingWithdrawalTest()
         {
-            Assert.IsFalse(_checking.Withdraw(0));
-            Assert.IsFalse(_checking.Withdraw(10000));
-            Assert.IsTrue(_checking.Withdraw(100));
+            Assert.IsFalse(_checking.Withdrawal(0));
+            Assert.IsFalse(_checking.Withdrawal(10000));
+            Assert.IsTrue(_checking.Withdrawal(100));
         }
 
         [TestMethod]
@@ -70,11 +70,11 @@ namespace AccountTests
         }
 
         [TestMethod]
-        public void CorporateWithdrawTest()
+        public void CorporateWithdrawalTest()
         {
-            Assert.IsFalse(_corporate.Withdraw(0));
-            Assert.IsFalse(_corporate.Withdraw(10000));
-            Assert.IsTrue(_corporate.Withdraw(100));
+            Assert.IsFalse(_corporate.Withdrawal(0));
+            Assert.IsFalse(_corporate.Withdrawal(10000));
+            Assert.IsTrue(_corporate.Withdrawal(100));
         }
 
         [TestMethod]
@@ -103,12 +103,12 @@ namespace AccountTests
         }
 
         [TestMethod]
-        public void IndividualWithdrawTest()
+        public void IndividualWithdrawalTest()
         {
-            Assert.IsFalse(_individual.Withdraw(0));
-            Assert.IsFalse(_individual.Withdraw(1001));
-            Assert.IsFalse(_individual.Withdraw(10000));
-            Assert.IsTrue(_individual.Withdraw(100));
+            Assert.IsFalse(_individual.Withdrawal(0));
+            Assert.IsFalse(_individual.Withdrawal(1001));
+            Assert.IsFalse(_individual.Withdrawal(10000));
+            Assert.IsTrue(_individual.Withdrawal(100));
         }
 
         [TestMethod]
